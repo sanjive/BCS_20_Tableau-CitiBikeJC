@@ -1,5 +1,7 @@
 # Tableau Homework - Citi Bike Analytics
 
+Link to Tableau Public site: https://public.tableau.com/profile/sanjive.agarwal#!/vizhome/CitiBikeJCAnalytics/CitibikeStory
+
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
