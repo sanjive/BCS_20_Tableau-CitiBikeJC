@@ -1,6 +1,8 @@
 # BCS_20_Tableau-CitiBikeJC
 BCS Tableau homework assignment on CitiBike JC 
 
+Link to Tableau Public site: https://public.tableau.com/profile/sanjive.agarwal#!/vizhome/CitiBikeJCAnalytics/CitibikeStory
+
 #Tableau data visualization assignment using CitiBike data.
 
 For the assignment the CitiBike JC data was chosen. The data and the logo were downloaded from the Citibike web site for this analysis.
